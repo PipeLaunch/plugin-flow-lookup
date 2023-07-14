@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Plugin Flow Lookup",
+            "versionName": "beta",
+            "versionNumber": "1.2.0.NEXT",
+            "versionDescription": "Open-source Plugin to get access to the list of active flows in your org from the lightning context"
+        }
+    ],
+    "name": "plugin-flow-lookup",
+    "namespace": "plugin_flowlook",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "57.0",
+    "packageAliases": {
+        "Plugin Flow Lookup": "0Ho090000004CkpCAE",
+        "Plugin Flow Lookup@1.2.0-1": "04t09000000S8DzAAK"
+    }
+}

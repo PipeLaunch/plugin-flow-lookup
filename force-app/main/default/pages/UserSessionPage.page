@@ -1,0 +1,7 @@
+<!--
+  @description       : Page to get the session id of the current user. 'Hack'
+                       to be used with getting list of org flows.
+  @author            : samuel@pipelaunch.com
+  @group             : Utilities
+-->
+<apex:page controller="UserSessionUtility"> [[{!$Api.Session_ID}]] </apex:page>
